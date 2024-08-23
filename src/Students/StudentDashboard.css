@@ -1,0 +1,39 @@
+.dashboard-container {
+    text-align: center;
+    display: block;
+    padding: 30px;
+    margin: auto;
+}
+
+.table-bordered {
+    border: 3px solid black;
+    width: 50%;
+    text-align: left;
+    margin-top: 200px;
+    margin-left: 400px;
+}
+
+.table-bordered th, .table-bordered td {
+    border: 2px solid black;
+    text-align: left;
+}
+
+.btn-primary {
+    /* Add your primary button styles here */
+}
+
+.btn-success {
+    /* Add your success button styles here */
+}
+
+.btn-warning {
+    /* Add your warning button styles here */
+}
+
+.modal-close-button {
+    text-align: end;
+}
+
+.bold {
+    font-weight: bold;
+}
